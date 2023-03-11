@@ -6,7 +6,7 @@ public class Dice {
         this.numberOfToss = numberOfToss;
     }
     public int getNumberOfToss() {return this.numberOfToss;}
-    private int tossAndSum() {
+    public int tossAndSum() {
         Random random = new Random();
         int result = 0;
         for (int i=1; i<=getNumberOfToss(); i++) {
