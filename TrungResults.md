@@ -13,3 +13,5 @@ Simulation of 2 dice tossed for 100000 times.
 10 :    8206: 0.08 ********
 11 :    5539: 0.06 *****
 12 :    2772: 0.03 **
+
+Awesome
